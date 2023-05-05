@@ -1,4 +1,4 @@
-# SkillFactory_EDA05
+# [SkillFactory_EDA05](/workhome_EDA_5.ipynb)
 
 ## Оглавление:
 * Анализ результатов А/В-тестирования
